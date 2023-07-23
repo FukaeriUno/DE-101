@@ -4,4 +4,4 @@
 [Project Sample](https://github.com/FukaeriUno/DE-101/blob/main/Module1/Project1.xlsx)
 
 
-[logo](https://github.com/FukaeriUno/DE-101/blob/main/Module1/de101-module01.png)
+![logo](https://github.com/FukaeriUno/DE-101/blob/main/Module1/de101-module01.png)
